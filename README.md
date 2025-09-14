@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=60&pause=1000&color=F70000&background=F5F5F51F&center=true&vCenter=true&width=800&height=75&lines=Hi+👋,+I'm+Tanmay+Agarwal)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate Computer Science student, aspiring Full-Stack & ML developer 🚀</h3>
-[![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ta2830)](https://github.com/ta2380/github-readme-stats)
 ---
 
 ### 👨‍💻 About Me  
