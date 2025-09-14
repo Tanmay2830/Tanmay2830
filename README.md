@@ -8,7 +8,7 @@
 - 👀 Interested in **AI/ML, Automation, and Web Dev**  
 - 🎾 Love coding, badminton, table-tennis, tennis, cooking, and swimming  
 - 💼 Portfolio → [tanmayresume.com](https://tanmayresume.com/)  
-- 📂 All Projects → [GitHub/All-Projects](https://github.com/Ta2830/All-Projects)  
+- 📂 All Projects → [GitHub/All-Projects](https://github.com/tanmay2830/All-Projects)  
 - 💬 Ask me about **Python, AI/ML, Web Dev, and Automation**  
 - 📫 Reach me at: **tanmay10agarwal@gmail.com**  
 
@@ -51,12 +51,12 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ta2830&show_icons=true></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta2830&layout=compact/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmay2830&show_icons=true></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay2830&layout=compact/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ta2830&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay2830&theme=tokyonight" height="150"/>
 </p>
 
 ---
